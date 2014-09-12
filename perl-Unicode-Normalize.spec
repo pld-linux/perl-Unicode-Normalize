@@ -53,6 +53,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc Changes README
 %{perl_vendorarch}/Unicode/Normalize.pm
 %dir %{perl_vendorarch}/auto/Unicode/Normalize
-%{perl_vendorarch}/auto/Unicode/Normalize/Normalize.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Unicode/Normalize/Normalize.so
 %{_mandir}/man3/Unicode::Normalize.3pm*
