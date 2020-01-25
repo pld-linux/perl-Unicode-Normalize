@@ -4,7 +4,6 @@
 #
 %define		pdir	Unicode
 %define		pnam	Normalize
-%include	/usr/lib/rpm/macros.perl
 Summary:	Unicode::Normalize - Unicode Normalization Forms
 Summary(pl.UTF-8):	Unicode::Normalize - postaci normalne Unikodu
 Name:		perl-Unicode-Normalize
